@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# This is an incredibly long caption for a long menu
+# 其它
 
 ```
 {% include list.liquid all=true %}
